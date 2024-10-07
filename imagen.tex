@@ -1,0 +1,54 @@
+\documentclass{book}
+\usepackage[
+paperwidth=150mm,
+paperheight=220mm,
+textwidth=110mm,
+marginparsep=0mm,
+inner=20mm,
+marginparwidth=0mm,
+includeall,
+headsep=6mm,
+top=15mm,
+bottom=15mm]{geometry}
+
+\usepackage{IBMPlex}
+
+% Define un nuevo tipo de entorno flotante para fotografias
+\usepackage{float}
+\newfloat{Imagen}{htbp}{lop}[chapter]
+
+
+\begin{document}
+
+% \tableofcontents
+% 
+% \listoffigures
+% 
+% % add the list of photos
+% \listof{photo}{List of Photos}
+
+\chapter{First}
+
+Donald Ervin Knuth es una persona a quien no conozco personalmente, utilizo su desarrollo informático como herramienta de trabajo en el día a día, también están los aportes de otras personas (y muchos de ellos son extremadamente valiosos), pero todo sigue girando en torno al núcleo principal que él desarrolló, por eso siento necesario hacer explícito este agradecimiento en particular.
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=20mm]{logo-imago-cmyk.pdf}
+\caption{A figure}
+\label{afig}
+\end{figure}
+
+Donald Ervin Knuth es una persona a quien no conozco personalmente, utilizo su desarrollo informático como herramienta de trabajo en el día a día, también están los aportes de otras personas (y muchos de ellos son extremadamente valiosos), pero todo sigue girando en torno al núcleo principal que él desarrolló, por eso siento necesario hacer explícito este agradecimiento en particular.
+
+\begin{Imagen}[!ht]
+\centering
+\includegraphics[width=20mm]{logo-imago-cmyk.pdf}
+\caption{A photograph}
+\label{aphoto}
+\end{Imagen}
+
+Donald Ervin Knuth es una persona a quien no conozco personalmente, utilizo su desarrollo informático como herramienta de trabajo en el día a día, también están los aportes de otras personas (y muchos de ellos son extremadamente valiosos), pero todo sigue girando en torno al núcleo principal que él desarrolló, por eso siento necesario hacer explícito este agradecimiento en particular.
+
+La figura~\ref{afig} es una figura, y la imagen~\ref{aphoto} es una fotografía.
+
+\end{document}

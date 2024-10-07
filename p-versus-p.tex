@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+% \usepackage[lining]{InriaSans}
+% \renewcommand*\oldstylenums[1]{{\fontfamily{InriaSans-OsF}\selectfont #1}}
+% %% The font package uses mweights.sty which has som issues with the
+% %% \normalfont command. The following two lines fixes this issue.
+% \let\oldnormalfont\normalfont
+% \def\normalfont{\oldnormalfont\mdseries}
+
+\usepackage[sfdefault]{overlock}
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage{plex-serif}
+% \usepackage{plex-sans}
+% \usepackage{plex-mono}
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{tikzpicture}[inner sep=0]
+  \begin{scope}[blend group=difference]
+    \node[anchor=south west,font=\fontsize{144pt}{144pt}\selectfont,text=black!20]{1};
+    \node[anchor=south west,font=\fontsize{144bp}{144bp}\selectfont]{1};
+  \end{scope}
+\end{tikzpicture}
+
+\end{document}

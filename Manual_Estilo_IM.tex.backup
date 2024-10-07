@@ -1,0 +1,172 @@
+\documentclass{book}
+\usepackage[paperwidth=150mm,paperheight=220mm,textwidth=110mm,centering, includehead,headsep=12pt,top=16mm,bottom=16mm]{geometry}
+% DEBE TENER 2 CM MAS QUE EL CORTE
+% \usepackage[width=17.5truecm,height=24.5truecm,cam,center]{crop}
+
+\usepackage{IBMPlex}
+\usepackage{bib-valbusa}
+\addbibresource{ESTILO.bib}
+\usepackage[citecolor=red,colorlinks=true]{hyperref}
+
+%%ESTE PAQUETE DEBE IR AL FINAL DE LA CARGA
+\usepackage[activate={true,nocompatibility},final,tracking=true,kerning=true,spacing=true,babel]{microtype}
+
+\begin{document}
+\frontmatter
+
+%pagina 1
+\newpage
+\thispagestyle{empty}
+{\textcolor{white}{.}}\\
+
+%pagina 2
+\newpage
+\thispagestyle{empty}
+{\textcolor{white}{.}}\\
+
+%%%%%%%%%% COMIENZO PAGINA 3
+\newpage
+\thispagestyle{empty}
+{\textcolor{white}{.}}
+
+\vfill
+
+\begin{center}
+\LARGE{Manual de estilo}\\
+\end{center}
+
+\vfill
+
+{\textcolor{white}{.}}
+%%%%%%%%%% FIN PAGINA 3
+
+%pagina
+\newpage
+\thispagestyle{empty}
+{\textcolor{white}{.}}\\
+
+%%%%%%%%%% COMIENZO PAGINA 5
+\newpage
+\thispagestyle{empty}
+\begin{center}
+\large{Alberto Moyano}\\
+\end{center}
+
+\vfill
+
+\begin{center}
+\LARGE{Manual de estilo}\\
+\end{center}
+
+\vfill
+
+\begin{figure}[b]
+\centering
+\includegraphics[width=20mm]{logo-imago.pdf}
+\end{figure}
+%%%%%%%%%% FIN PAGINA 5
+
+%pagina 6
+\newpage
+\thispagestyle{empty}
+\begin{center}
+\begin{figure}[t]
+\centering
+% \includegraphics[width=18mm]{logo_silla.png}\\
+\vspace{-5mm}
+\end{figure}
+Colección Bitácora Argentina \\
+Dirigida por Alejandro Falco
+\end{center}
+
+\noindent María de Monserrat Llairó y Priscila Palacio (comps.)\\
+\noindent Argentina y América Latina ante el cambio de escenario global en el siglo~XXI. Economía, política y sociedad. 1a ed. Buenos Aires: 2018.\\
+\noindent 000 p.; 15x22 cm.\\
+\noindent ISBN 978-950-793-000-0\\
+\noindent 1.\\
+\noindent CDD \\
+\noindent Fecha de catalogación: 00/00/2099\\
+\noindent \textcopyright~2018, Alberto Moyano\\
+\noindent \textcopyright~2018, Ediciones Imago Mundi\\
+\noindent Hecho el depósito que marca la ley 11.723\\
+\noindent Impreso en Argentina, tirada de esta edición: 0000 ejemplares\\
+\vfill
+
+\noindent Este libro se terminó de imprimir en el mes de setiembre de 2099 en Gráfica San Martín, Güiraldes 2723, San Martín, provincia de Buenos Aires, República Argentina. Ninguna parte de esta publicación, incluido el diseño de cubierta, puede ser reproducida, almacenada o transmitida de manera alguna ni por ningún medio, ya sea eléctrico, químico, mecánico, óptico, de grabación o de fotocopia, sin permiso previo por escrito del editor.
+
+\Author{Índice general}
+\tableofcontents
+
+\chapter{Introducción}
+\Author{Alberto Moyano}
+\citereset
+
+\chapter{Preface}
+
+\chapter{Acknowledgments}
+
+\mainmatter
+
+\chapter{1 The Parts of a Published Work}
+
+\chapter{2 Manuscript Preparation and Manuscript Editing}
+
+\chapter{3 Proofs}
+
+\chapter{4 Rights and Permissions BY WILLIAM S. STRONG}
+
+\chapter{5 Grammar and Usage BY BRYAN A. GARNER}
+
+\chapter{6 Punctuation}
+
+\chapter{7 Spelling, Distinctive Treatment of Words, and Compounds}
+
+\chapter{8 Names and Terms}
+
+\chapter{9 Numbers}
+
+\chapter{10 Foreign Languages}
+
+\chapter{11 Quotations and Dialogue}
+
+\chapter{12 Illustrations and Captions}
+
+\chapter{13 Tables}
+
+\chapter{14 Mathematics in Type}
+
+\chapter{15 Abbreviations}
+
+\chapter{18 Indexes}
+
+\chapter{Bibliography}
+
+% \begin{quote}
+% \nombreautor{Alberto Moyano}\\
+% \ldots\ldots\\
+% \vspace{5mm}
+% \end{quote}
+
+
+
+
+\chapter{Referencias bibliográficas}
+\chaptermark{Referencias bibliográficas}
+\Author{Referencias bibliográficas}
+\printbibliography[keyword=listar,heading=none]
+
+\newpage
+\small
+\raggedright
+\chaptermark{Índice de autores}
+\Author{Índice de autores}
+\printindex
+
+\newpage
+\thispagestyle{empty}
+{\textcolor{white}{.}}
+
+\newpage
+\thispagestyle{empty}
+{\textcolor{white}{.}}
+\end{document}

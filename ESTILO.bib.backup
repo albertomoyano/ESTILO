@@ -1,0 +1,1253 @@
+% This file was created with JabRef 2.11.1.
+% Encoding: UTF8
+
+
+@Incollection{Schneider2018,
+  Title                    = {La represión en la historia reciente como objeto de estudio: problemas, novedades y derivas historiográficas},
+  Author                   = {Gabriela Águila},
+  Keywords                 = {algunos-ejemplos},
+  Pages                    = {55-73},
+  Annote                   = {\textcolor{purple}{Ejemplo de capítulo de un libro que también está referenciado dentro del texto.}},
+  Crossref                 = {Aguila2018},
+  Langid                   = {spanish}
+}
+
+@Article{Cibeira2018,
+  Title                    = {Cuando pase el temblor},
+  Author                   = {Fernando Cibeira},
+  Date                     = {2018-12-01},
+  Hyphenation              = {spanish},
+  Journaltitle             = {\emph{diario} Página 12},
+  Keywords                 = {article},
+  Url                      = {https://www.pagina12.com.ar/159130-cuando-pase-el-temblor}
+}
+
+@Article{Martin2018,
+  Title                    = {El Círculo de Obreros de Rosario antes el conflicto y la crisis económico-social (1928-1935)},
+  Author                   = {María Pía Martín},
+  Date                     = {2018-09},
+  Hyphenation              = {spanish},
+  Journaltitle             = {\emph{revista} ARCHIVOS},
+  Keywords                 = {article},
+  Number                   = {13},
+  Pages                    = {33-52},
+  ISSN                     = {2323-9749}
+}
+
+@Article{correspoMARX,
+  Title                    = {Correspondencia},
+  Author                   = {Marx, Karl},
+  Date                     = {1846-12-28},
+  Hyphenation              = {spanish},
+  Journaltitle             = {Biblioteca Karl Marx},
+  Keywords                 = {correspondencia},
+  Url                      = {https://webs.ucm.es/info/bas/es/marx-eng/cartas/oe1/mrxoe117.htm},
+  Urldate                  = {2018-12-10},
+  Note                     = {Bruselas},
+  Titleaddon               = {carta a Pavel Vasilievich Annenkov}
+}
+
+@Article{Baron2002,
+  Title                    = {Noticias de guerra: la extraña lógica del conflicto colombiano en el consumo de noticieros},
+  Author                   = {Barón Porras, Luis and Valencia Corredor, Mónica and Bedoya Mancera, Adriana},
+  Date                     = {2002},
+  Journaltitle             = {Controversia},
+  Keywords                 = {ejemplo-corte-palabras,algunos-ejemplos},
+  Number                   = {180},
+  Url                      = {https://www.revistacontroversia.com/index.php?journal=controversia&page=article&op=view&path%5B%5D=293},
+  Annote                   = {\textcolor{purple}{Artículo de revista con indicación de recurso en línea. Dentro del texto la referencia se muestra truncada con la expresión \emph{et al.}}},
+  Langid                   = {spanish}
+}
+
+@Article{Anonimo1980,
+  Title                    = {Travel to Central America by Assistant Secretary},
+  Author                   = {Anónimo},
+  Date                     = {1980-01-16},
+  Hyphenation              = {english},
+  Journaltitle             = {Digital National Security Archive},
+  Keywords                 = {algunos-ejemplos},
+  Url                      = {https://nsarchive.gwu.edu/search/node/Travel%20to%20Central%20America%20by%20Assistant%20Secretary},
+  Titleaddon               = {Secretary State Confidential Telegram},
+  Annote                   = {\textcolor{purple}{Ejemplo de telegrama, sin autor.}}
+}
+
+@Article{correspoN,
+  Title                    = {US Policy to El Salvador},
+  Author                   = {DNSA},
+  Date                     = {1980-01-18},
+  Hyphenation              = {english},
+  Journaltitle             = {Digital National Security Archive},
+  Keywords                 = {correspondencia},
+  Nameaddon                = {Digital National Security Archive},
+  Titleaddon               = {White House Memorandum},
+  Location                 = {Washington, DC}
+}
+
+@Article{Jauregui-Funes1984,
+  Title                    = {Agustín Tosco. Dirigente sindical revolucionario},
+  Author                   = {Jáuregui, Rubén and Funes, Susana},
+  Date                     = {1984},
+  Hyphenation              = {spanish},
+  Journaltitle             = {Hechos y protagonistas de las Luchas Obreras Argentinas},
+  Keywords                 = {unautor},
+  Number                   = {6}
+}
+
+@Article{Bonner1993,
+  Title                    = {Company Town, Company Estate: Pilgrim's Rest, 1910-1932},
+  Author                   = {Bonner, Philip and Karin Shapiro},
+  Date                     = {1993},
+  Journaltitle             = {Journal of Southern African Studies},
+  Keywords                 = {listar},
+  Number                   = {2},
+  Pages                    = {171–200},
+  Volume                   = {19},
+  Langid                   = {english}
+}
+
+@Article{Diaz2018,
+  Title                    = {El calvario de llegar a viejo},
+  Author                   = {Adrian Figueroa Diaz},
+  Date                     = {2018-09-30},
+  Journaltitle             = {Página 12},
+  Keywords                 = {listar},
+  Url                      = {https://www.pagina12.com.ar/145445-el-calvario-de-llegar-a-viejo},
+  Urldate                  = {2018-10-05},
+  Langid                   = {spanish}
+}
+
+@Article{Ginzberg2016,
+  Title                    = {Del dicho al hecho},
+  Author                   = {Victoria Ginzberg},
+  Date                     = {2016-08-15},
+  Journaltitle             = {Página 12},
+  Keywords                 = {listar},
+  Url                      = {http://www.pagina12.com.ar/diario/elpais/1-306881-2016-08-15.html},
+  Urldate                  = {2016-08-16},
+  Langid                   = {spanish}
+}
+
+@Article{Cohen1980,
+  Title                    = {Resistance and Hidden Forms of Consciousness a\-mongst African Workers},
+  Author                   = {Cohen, Robin},
+  Date                     = {1980-09},
+  Hyphenation              = {english},
+  Journaltitle             = {Review of African Political Economy},
+  Keywords                 = {algunos-ejemplos},
+  Number                   = {19},
+  Pages                    = {8-22},
+  Annote                   = {\textcolor{purple}{Artículo de revista con apunte indicativo sobre la reimpresión del mismo, no se utiliza una referencia relacionada.}},
+  Library                  = {\textcolor{blue}{Reimpreso en \emph{Contested Domains. Debates in International Labour Studies}, Londres: Zed Books, 1991, págs.~91–109.}}
+}
+
+@Article{PadronNovales2014,
+  Title                    = {Aspectos importantes de la redacción científica},
+  Author                   = {Padrón Novales, Carmen Isabel and Quesada Padrón, Náyade and Pérez Murguía, Ada and González Rivero, Pedro Luis and Martínez Hondares, Luis Enrique},
+  Date                     = {2014},
+  Hyphenation              = {spanish},
+  Journaltitle             = {Revista de Ciencias Médicas de Pinar del Río},
+  Keywords                 = {usados},
+  Number                   = {2},
+  Pages                    = {362-380},
+  Url                      = {http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-31942014000200020&lng=es&tlng=es},
+  Urldate                  = {2019-01-15},
+  Volume                   = {18}
+}
+
+@Article{Reardon2004,
+  Title                    = {Measures of spatial segregation},
+  Author                   = {Reardon, Sean and O'sullivan, David},
+  Date                     = {2004},
+  Hyphenation              = {spanish},
+  Journaltitle             = {Sociological Methodology},
+  Keywords                 = {listar},
+  Number                   = {34},
+  Pages                    = {121-162}
+}
+
+@Article{Ditton2004,
+  Title                    = {From imitation to intimidation: a note on the curious and changing relationship between the media, crime and fear of crime},
+  Author                   = {Ditton, Jason and Derek, Chadee and Farrall, Stephen and Gilchrist, Elizabeth and Bannister, Jon},
+  Date                     = {2004},
+  Journaltitle             = {The British Journal of Criminology},
+  Keywords                 = {listar},
+  Number                   = {4},
+  Pages                    = {595-610},
+  Volume                   = {44},
+  Langid                   = {english}
+}
+
+@Book{AbalMedina2011,
+  Title                    = {Colectivos resistentes. Procesos de politización de trabajadores en la Argentina reciente},
+  Date                     = {2011},
+  Editor                   = {Abal Medina, Paula and Diana Menéndez, Nicolás},
+  Editortype               = {compiler},
+  Keywords                 = {listar},
+  Location                 = {Buenos Aires},
+  Publisher                = {Ediciones Imago Mundi},
+  Url                      = {https://www.edicionesimagomundi.com/libros/colectivos-resistentes},
+  ISBN                     = {978-950-793-113-0},
+  Langid                   = {spanish}
+}
+
+@Thesis{Abdala2015,
+  Title                    = {Rupturas y continuidades en las formas de acción y resistencia de los trabajadores},
+  Author                   = {Abdala, Omar},
+  Date                     = {2015},
+  Hyphenation              = {spanish},
+  Institution              = {Universidad Nacional de San Martín},
+  Keywords                 = {thesis},
+  Type                     = {licenciaturathesis},
+  Url                      = {http://ri.unsam.edu.ar/greenstone/collect/coltesis/index/assoc/HASH0104.dir/TLIC%20IDAES%202015%20AO.pdf},
+  Pagetotal                = {158},
+  Subtitle                 = {El caso Ford Motor Argentina. 1970-1985}
+}
+
+@Conference{Addiechi2011,
+  Title                    = {La fundación de la Universidad de la ciudad de México: una vía para reflexionar acerca de los intelectuales mexicanos contemporáneos},
+  Author                   = {Florencia Addiechi},
+  Date                     = {2009},
+  Eventtitle               = {Una historia intelectual de la fundación de la Universidad Autónoma de la ciudad de México},
+  Hyphenation              = {spanish},
+  Keywords                 = {proceedings},
+  Location                 = {México, DF},
+  Organization             = {Asociación Latinoamericana de Sociología}
+}
+
+@BookInBook{Agosti1974,
+  Title                    = {Para una historia de Ingenieros},
+  Author                   = {Aníbal Ponce},
+  Booktitle                = {Obras completas},
+  Date                     = {1974},
+  Annotator                = {Agosti, Héctor},
+  Bookauthor               = {Aníbal Ponce},
+  Location                 = {Buenos Aires},
+  Publisher                = {Editorial Cartago},
+  Volume                   = {1},
+  Volumes                  = {3},
+  Annote                   = {\textcolor{purple}{Ejemplo de referencia que consiste en un libro dentro de otro libro.}},
+  Keywords                 = {libro2libro,algunos-ejemplos}
+}
+
+@Book{Aguila2016,
+  Title                    = {Represión estatal y violencia paraestatal en la historia reciente argentina: nuevos abordajes a 40 años del golpe de estado},
+  Date                     = {2016},
+  Editor                   = {Águila, Gabriela and Garaño, Santiago and Scatizza, Pablo},
+  Editortype               = {compiler},
+  Hyphenation              = {spanish},
+  Keywords                 = {unautor},
+  Location                 = {La Plata},
+  Publisher                = {Universidad Nacional de La Plata}
+}
+
+@Collection{Aguila2018,
+  Title                    = {La historia reciente en Argentina},
+  Date                     = {2018},
+  Editor                   = {Gabriela Águila and Laura Luciani and Luciana Seminara and Cristina Viano},
+  Location                 = {Buenos Aires},
+  Publisher                = {Ediciones Imago Mundi},
+  Url                      = {https://www.edicionesimagomundi.com/libros/la-historia-reciente-en-argentina},
+  Annote                   = {\textcolor{purple}{Referencia con cuatro editores (compiladores) y recurso en línea.}},
+  Editortype               = {compiler},
+  Keywords                 = {algunos-ejemplos},
+  Langid                   = {spanish}
+}
+
+@Incollection{Alfaro1999,
+  Title                    = {Ciudadanos de la ciudad: cambios e incertidumbres comunicativas},
+  Author                   = {Alfaro Moreno, Rosa María},
+  Booktitle                = {La ciudad, escenario de comunicación},
+  Date                     = {1999},
+  Editor                   = {Fernando Carrión and Dorte Wollrad},
+  Editortype               = {compiler},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Quito},
+  Publisher                = {FLACSO},
+  Annote                   = {\textcolor{purple}{Ejemplo de capítulo de un libro.}},
+  Langid                   = {spanish}
+}
+
+@InProceedings{Alfonso2014,
+  Title                    = {El exilio: ¿un viaje de formación? Notas sobre la experiencia de un grupo de pedagogos argentinos en el exilio mexicano},
+  Author                   = {Alfonso, Malena},
+  Booktitle                = {II Jornadas de Trabajo sobre Exilios Políticos del Cono Sur en el siglo XX},
+  Date                     = {2014},
+  Eventdate                = {2014-11-05/2014-11-07},
+  Location                 = {Montevideo},
+  Publisher                = {Universidad de la República},
+  Keywords                 = {ejemplo-conferencia},
+  Langid                   = {spanish}
+}
+
+@Incollection{Audring1985,
+  Title                    = {Zur sozialen Stellung der Hirten in archaischer Zeit},
+  Author                   = {Audring, Gert},
+  Booktitle                = {Antike Abhängigkeitsformen in den griechischen Gebieten ohne Polisstruktur und den römischen Provinzen},
+  Date                     = {1985},
+  Editor                   = {Heinz Kreißig and Friedmar Kühnert},
+  Hyphenation              = {german},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Berlín},
+  Publisher                = {Verlag},
+  Pages                    = {12-19},
+  Annote                   = {\textcolor{purple}{Otro de un capítulo de un libro de un mismo autor.}}
+}
+
+@Thesis{Bargsted2003,
+  Title                    = {Opinión pública y violencia urbana: estudio empírico de la preocupación por la delincuencia en Chile},
+  Author                   = {Bargsted, Matías},
+  Date                     = {2003},
+  Institution              = {Pontificia Universidad Católica de Chile},
+  Keywords                 = {algunos-ejemplos},
+  Type                     = {maestriathesis},
+  Annote                   = {\textcolor{purple}{Tesis escrita para una institución educativa para satisfacer los requisitos de un título.}},
+  Langid                   = {spanish}
+}
+
+@Book{Benedetti2016-1977,
+  Title                    = {Con y sin nostalgia},
+  Author                   = {Benedetti, Mario},
+  Date                     = {2016},
+  Hyphenation              = {spanish},
+  Keywords                 = {ordenador},
+  Location                 = {Buenos Aires},
+  Publisher                = {Planeta}
+}
+
+@Book{Benedetti2016-1982,
+  Title                    = {Primavera con esquina rota},
+  Author                   = {Benedetti, Mario},
+  Date                     = {2016},
+  Hyphenation              = {spanish},
+  Keywords                 = {ordenador},
+  Location                 = {Buenos Aires},
+  Publisher                = {Planeta}
+}
+
+@Online{Bezos2012,
+  Title                    = {Ortografía, tipografía y ortotipografía},
+  Author                   = {Javier Bezos},
+  Date                     = {2012},
+  Hyphenation              = {spanish},
+  Keywords                 = {usados},
+  Url                      = {http://www.texnia.com/ortotypo.html},
+  Urldate                  = {2019-01-15}
+}
+
+@Online{Bezossf,
+  Title                    = {Tipografía y notaciones científicas},
+  Author                   = {Bezos, Javier},
+  Date                     = {2012},
+  Hyphenation              = {spanish},
+  Keywords                 = {usados},
+  Url                      = {http://www.texnia.com/notaciones_cientificas.html},
+  Urldate                  = {2019-01-26}
+}
+
+@Online{Brysk1994A,
+  Title                    = {La política de derechos humanos en Argentina. Protesta, cambio y democratización},
+  Author                   = {Brysk, Alison},
+  Date                     = {1994},
+  Keywords                 = {online},
+  Url                      = {http://www.alisonbrysk.org},
+  Langid                   = {spanish}
+}
+
+@Incollection{Calvi2010,
+  Title                    = {Las metamorfosis de la desigualdad de ingresos en la Argentina (1974-2005)},
+  Author                   = {Calvi, Gabriel},
+  Booktitle                = {Pobreza y desigualdad en América Latina y el Caribe},
+  Date                     = {2010},
+  Editor                   = {Di Virgilio, María Mercedes and María Pía Otero and Paula Boniolo},
+  Keywords                 = {corte3},
+  Location                 = {Buenos Aires},
+  Publisher                = {CLACSO},
+  Shorttitle               = {Las metamorfosis de la desigualdad de ingresos en la Argentina (1974-2005)},
+  Url                      = {https://www.crop.org/viewfile.aspx?id=278},
+  Pages                    = {93-139},
+  Langid                   = {spanish}
+}
+
+@Book{Chesneaux1962,
+  Title                    = {Le mouvement ouvrier en Chine de 1919 à 1927},
+  Author                   = {Chesneaux, Jean},
+  Date                     = {1962},
+  Keywords                 = {NOlistar},
+  Location                 = {París},
+  Publisher                = {Mouton},
+  Langid                   = {french}
+}
+
+@Book{Chesneaux1968,
+  Title                    = {The Chinese Labor Movement 1919–1927},
+  Author                   = {Chesneaux, Jean},
+  Date                     = {1968},
+  Keywords                 = {NOlistar},
+  Location                 = {Stanford},
+  Publisher                = {Stanford University Press},
+  Langid                   = {english},
+  Related                  = {Chesneaux1962}
+}
+
+@Online{Chu2012,
+  Title                    = {Who Killed the Inner Circle? The End of the Era of the Corporate Interlock Network},
+  Author                   = {Chu, Johan and Davis, Gerald},
+  Keywords                 = {corte3x,algunos-ejemplos},
+  Url                      = {http://dx.doi.org/10.2139/ssrn.2061113},
+  Urldate                  = {2016-03-23},
+  Year                     = {2012},
+  Annote                   = {\textcolor{purple}{Recurso en línea. Este tipo de entrada está destinado a referencias tales como sitios web. Se debe tener en cuenta que todos los tipos de referencias admiten el campo url. En una revista en línea, puede ser preferible mostrar la referencia como artículo.}},
+  Langid                   = {english}
+}
+
+@Online{Clawson2010,
+  Title                    = {biblatex-mla. MLA Style Using biblatex},
+  Author                   = {Clawson, James},
+  Date                     = {2010},
+  Hyphenation              = {english},
+  Keywords                 = {usados},
+  Url                      = {http://mirrors.ctan.org/macros/latex/contrib/biblatex-contrib/biblatex-mla/doc/biblatex-mla.pdf},
+  Titleaddon               = {version 0.95}
+}
+
+@Manual{cms2003,
+  Title                    = {The Chicago Manual of Style},
+  Date                     = {2003},
+  Edition                  = {15},
+  ISBN                     = {0-226-10403-6},
+  Location                 = {Chicago},
+  Publisher                = {University of Chicago Press},
+  Subtitle                 = {The Essential Guide for Writers, Editors and Publishers},
+  Keywords                 = {manual},
+  Label                    = {CMS},
+  Langid                   = {english}
+}
+
+@Book{CONADEP1984,
+  Title                    = {Nunca Más. Informe de la Comisión Nacional sobre la Desaparición de Personas},
+  Author                   = {CONADEP},
+  Date                     = {1984},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Buenos Aires},
+  Nameaddon                = {Comisión Nacional sobre la Desaparición de Personas},
+  Publisher                = {EUDEBA},
+  Annote                   = {\textcolor{purple}{Ejemplo de libro editado por una institución, con descripción de la sigla.}},
+  Langid                   = {spanish}
+}
+
+@Conference{Conference2019,
+  Title                    = {Lecturas críticas, voces diversas y horizontes políticos en el mundo contemporáneo},
+  Author                   = {RELAHO},
+  Date                     = {2019},
+  Eventdate                = {2019-04-04/2019-04-06},
+  Eventtitle               = {VIII Encuentro Internacional de Historia Oral y Memorias},
+  Hyphenation              = {spanish},
+  Keywords                 = {conference},
+  Location                 = {Bogotá DC, Colombia},
+  Url                      = {http://colectivohistoriaoral.org},
+  Organization             = {Colectivo de Historia Oral de Colombia and Red Latinoamericana de Historia Oral},
+  Nameaddon                = {Red Latinoamericana de Historia Oral}
+}
+
+@Book{Dadrian1997,
+  Title                    = {The History of the Armenian Genocide},
+  Author                   = {Vahakn Dadrian},
+  Date                     = {1997},
+  Hyphenation              = {spanish},
+  Keywords                 = {relacionada},
+  Location                 = {Providence},
+  Publisher                = {Berghahn Books},
+  Edition                  = {2}
+}
+
+@Book{Dadrian2008,
+  Title                    = {Historia del genocidio armenio},
+  Author                   = {Vahakn Dadrian},
+  Date                     = {2008},
+  Hyphenation              = {spanish},
+  Keywords                 = {relacionada},
+  Location                 = {Buenos Aires},
+  Publisher                = {Ediciones Imago Mundi},
+  ISBN                     = {978-950-793-071-3},
+  Translator               = {Eduardo Karsaclian},
+  Related                  = {Dadrian1997}
+}
+
+@Book{DICKMAN1947,
+  Title                    = {Nacionalización de los Ferrocarriles},
+  Author                   = {Dickman, Emilio},
+  Hyphenation              = {spanish},
+  Keywords                 = {igualdad},
+  Location                 = {Buenos Aires},
+  Year                     = {1947}
+}
+
+@Book{DICKMAN-Repetto1947,
+  Title                    = {El plan quinquenal},
+  Author                   = {Dickman, Enrique and Nicolás Repetto},
+  Hyphenation              = {spanish},
+  Keywords                 = {igualdad},
+  Location                 = {Buenos Aires},
+  Publisher                = {Casa del Pueblo},
+  Shorttitle               = {El plan quinquenal},
+  Year                     = {1947}
+}
+
+@Online{Fundeu2018,
+  Title                    = {Preposiciones en apellidos},
+  Author                   = {Fundéu},
+  Date                     = {2018},
+  Hyphenation              = {spanish},
+  Keywords                 = {usados},
+  Url                      = {https://www.fundeu.es/consulta/preposiciones-en-apellidos-539}
+}
+
+@Book{Furlough1991,
+  Title                    = {Consumer Cooperation in France. The Politics of Consumption, 1834–1930},
+  Author                   = {Furlough, Ellen},
+  Date                     = {1991},
+  Hyphenation              = {english},
+  Keywords                 = {unautor},
+  Location                 = {Londres},
+  Publisher                = {Cornell University Press}
+}
+
+@Book{Furtado2014,
+  Title                    = {La edición de libros y la gestión estratégica},
+  Author                   = {Furtado, José Afonso},
+  Date                     = {2014},
+  Hyphenation              = {spanish},
+  Keywords                 = {usados},
+  Location                 = {Córdoba},
+  Publisher                = {EDUVIM}
+}
+
+@Book{GarciaNegroni2006,
+  Title                    = {El arte de escribir bien en español},
+  Date                     = {2006},
+  Editor                   = {García Negroni, María Marta},
+  Editortype               = {cordinator},
+  Hyphenation              = {spanish},
+  Keywords                 = {usados},
+  Location                 = {Buenos Aires},
+  Publisher                = {Santiago Arcos}
+}
+
+@Book{Giaretta2009,
+  Title                    = {Filosofia delle medicina. Metodo, modelli, cura ed errori},
+  Date                     = {2009},
+  Editor                   = {Giaretta, Pierdaniele and Antonio Moretto and Gian Franco Gensini and Marco Trabucchi},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Bologna},
+  Publisher                = {il Mulino},
+  Volumes                  = {2},
+  Annote                   = {\textcolor{purple}{Colección de 2 volúmenes con cuatro editores. Dentro del texto la referencia se muestra truncada con la expresión \emph{et al.}}},
+  Langid                   = {italian}
+}
+
+@Online{Gliboff2010,
+  Title                    = {User’s Guide to Historian. A Footnotes-and-Bibliography Style, Following Turabian/Chicago Guidelines: For Use with the Biblatex System of Programmable Bibliographies and Citations},
+  Author                   = {Gliboff, Sander},
+  Date                     = {2010},
+  Hyphenation              = {english},
+  Keywords                 = {usados},
+  Url                      = {http://mirrors.ctan.org/macros/latex/contrib/biblatex-
+contrib/biblatex-historian/historian.pdf},
+  Titleaddon               = {versión 0.4}
+}
+
+@Book{Heidegger2001,
+  Title                    = {Sein und Zeit},
+  Author                   = {Martin Heidegger},
+  Date                     = {2001},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Tübingen},
+  Publisher                = {Verlag},
+  Edition                  = {18},
+  Annote                   = {\textcolor{purple}{Referencia en la que se tienen datos parciales de la primera edición y ahora esta difiere en su tipo respecto de la utilizada en el texto, el resaltado con color azul es para mostrar que ese texto no forma parte de la estructura de datos de la referencia al ser un apunte.}},
+  Langid                   = {german},
+  Library                  = {\textcolor{blue}{Publicado originalmente en 1927 en la revista \emph{Jahrbuch für Philosophie und phänomenologische Forschung.}}}
+}
+
+@Online{III1989,
+  Title                    = {Gates Talk on Microsoft},
+  Author                   = {Gates, William Henry. III},
+  Date                     = {1989},
+  Hyphenation              = {english},
+  Keywords                 = {particula},
+  Nameaddon                = {conocido como Bill Gates},
+  Url                      = {http://csclub.uwaterloo.ca/media/1989%20Bill%20Gates%20Talk%20on%20Microsoft.html},
+  Urldate                  = {2019-01-26}
+}
+
+@Report{infochiu,
+  Title                    = {A Hybrid Hierarchical Model of a Multiple Virtual Storage (MVS) Operating System},
+  Author                   = {Chiu, Willy and Chow, We Min},
+  Date                     = {1978},
+  Institution              = {IBM},
+  Type                     = {resreport},
+  Number                   = {RC-6947},
+  Keywords                 = {infotecnico},
+  Langid                   = {english}
+}
+
+@Report{infopad,
+  Title                    = {A Stochastic Model of {TCP Reno} Congestion Avoidance and Control},
+  Author                   = {Padhye, Jitendra and Firoiu, Victor and Towsley, Don},
+  Date                     = {1999},
+  Institution              = {University of Massachusetts},
+  Type                     = {techreport},
+  Location                 = {Amherst},
+  Number                   = {99-02},
+  Keywords                 = {infotecnico},
+  Langid                   = {english}
+}
+
+@Book{Irazusta1934,
+  Title                    = {La Argentina y el imperialismo británico. Los eslabones de una cadena, 1808-1833},
+  Author                   = {Irazusta, Rodolfo and Irazusta, Julio},
+  Hyphenation              = {spanish},
+  Keywords                 = {igualdad},
+  Location                 = {Buenos Aries},
+  Publisher                = {Cóndor},
+  Year                     = {1934}
+}
+
+@Book{Irazusta1956,
+  Title                    = {Perón y la crisis argentina},
+  Author                   = {Irazusta, Julio},
+  Hyphenation              = {spanish},
+  Keywords                 = {igualdad},
+  Location                 = {Buenos Aires},
+  Publisher                = {La Voz del Plata},
+  Year                     = {1956}
+}
+
+@Online{ISO2012,
+  Title                    = {Graphic technology. Prepress digital data exchange. Use of PDF. Part 1: Complete exchange using CMYK data (PDF/X-1 and PDF/X-1a)},
+  Author                   = {ISO},
+  Date                     = {2001-12},
+  Hyphenation              = {english},
+  Keywords                 = {usados},
+  Nameaddon                = {International Organization for Standardization},
+  Url                      = {https://www.iso.org/standard/29061.html}
+}
+
+@Book{Jackson2001,
+  Title                    = {El Señor de los Anillos \emph{[película]}},
+  Author                   = {Peter Jackson},
+  Date                     = {2001},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Francia},
+  Nameaddon                = {director},
+  Publisher                = {New Line Cinema},
+  Editora                  = {Peter Jackson and Barrie Osborne and Fran Walsh},
+  Annote                   = {\textcolor{purple}{Referencia de resurso audiovisual, las categorías disponibles son: película, cortometraje, documental y obra teatral.}},
+  Editoratype              = {producida por},
+  Langid                   = {spanish}
+}
+
+@Book{KDW2008,
+  Title                    = {\begin{CJK}{UTF8}{mj}\emph{끝나지않은전쟁}\end{CJK} \emph{[documental]}},
+  Author                   = {{Kim Dong-won}},
+  Date                     = {2008},
+  Keywords                 = {algunos-ejemplos,audiovisual},
+  Nameaddon                = {director},
+  Publisher                = {Seúl},
+  Editora                  = {{Lee Seung-gu}},
+  Annote                   = {\textcolor{purple}{Referencia de resurso audiovisual, se mantiene el título en idioma original.}},
+  Editoratype              = {producido por},
+  Langid                   = {spanish},
+  Library                  = {\textcolor{blue}{Traducido como \emph{63 Years On}.}}
+}
+
+@Thesis{Kicillof2015,
+  Title                    = {Génesis y estructura de la \emph{Teoría General} de Lord Keynes},
+  Author                   = {Axel Kicillof},
+  Date                     = {2015},
+  Hyphenation              = {spanish},
+  Institution              = {Universidad de Buenos Aires},
+  Keywords                 = {thesis,algunos-ejemplos},
+  Type                     = {phdthesis},
+  Url                      = {http://bibliotecadigital.econ.uba.ar/download/tesis/1501-1176_KicillofA.pdf},
+  Pagetotal                = {456},
+  Annote                   = {\textcolor{purple}{Tesis escrita para una institución educativa para satisfacer los requisitos de un título, \emph{Teoría General} va en redonda porque es un título dentro de otro que también va en bastardilla.}}
+}
+
+@Book{Knuth1984,
+  Title                    = {Computers \& Typesetting},
+  Author                   = {Donald Ervin Knuth},
+  Date                     = {1984/1986},
+  Keywords                 = {knutH},
+  Location                 = {Read\-ing, Massachusetts},
+  Publisher                = {Addison Wesley},
+  Volumes                  = {5},
+  Langid                   = {english}
+}
+
+@Book{Knuth1984a,
+  Title                    = {The TEXbook},
+  Author                   = {Donald Ervin Knuth},
+  Date                     = {1984},
+  Keywords                 = {knutH},
+  Location                 = {Read\-ing, Massachusetts},
+  Publisher                = {Addison Wesley},
+  Volume                   = {1},
+  Maintitle                = {Computers \& Typesetting},
+  Langid                   = {english}
+}
+
+@Book{Knuth1986,
+  Title                    = {METAFONT: The Program},
+  Author                   = {Donald Ervin Knuth},
+  Date                     = {1986},
+  Keywords                 = {knutH},
+  Location                 = {Read\-ing, Massachusetts},
+  Publisher                = {Addison Wesley},
+  Volume                   = {4},
+  Maintitle                = {Computers \& Typesetting},
+  Langid                   = {english}
+}
+
+@Book{Knuth1986a,
+  Title                    = {TEX: The Program},
+  Author                   = {Donald Ervin Knuth},
+  Date                     = {1986},
+  Keywords                 = {knutH},
+  Location                 = {Read\-ing, Massachusetts},
+  Publisher                = {Addison Wesley},
+  Volume                   = {2},
+  Maintitle                = {Computers \& Typesetting},
+  Langid                   = {english}
+}
+
+@Book{Knuth1986b,
+  Title                    = {The METAFONT book},
+  Author                   = {Donald Ervin Knuth},
+  Date                     = {1986},
+  Keywords                 = {knutH},
+  Location                 = {Read\-ing, Massachusetts},
+  Publisher                = {Addison Wesley},
+  Volume                   = {3},
+  Maintitle                = {Computers \& Typesetting},
+  Langid                   = {english}
+}
+
+@Book{Knuth1986c,
+  Title                    = {Computer Modern Typefaces},
+  Author                   = {Donald Ervin Knuth},
+  Date                     = {1986},
+  Keywords                 = {knutH},
+  Location                 = {Read\-ing, Massachusetts},
+  Publisher                = {Addison Wesley},
+  Volume                   = {5},
+  Maintitle                = {Computers \& Typesetting},
+  Langid                   = {english}
+}
+
+@Book{Knuth2011,
+  Title                    = {The Art of Computer Programming},
+  Author                   = {Donald Ervin Knuth},
+  Date                     = {2011},
+  Hyphenation              = {english},
+  Keywords                 = {usados},
+  Location                 = {Melbourne},
+  Publisher                = {Addison Wesley},
+  Volumes                  = {4},
+  Origdate                 = {1968}
+}
+
+@Book{Lenin1974,
+  Title                    = {Materialismo y empiriocriticismo (1908-1909)},
+  Author                   = {Lenin},
+  Date                     = {1974},
+  Hyphenation              = {spanish},
+  Keywords                 = {nota-apunte},
+  Location                 = {Buenos Aires},
+  Nameaddon                = {Vladímir Ilich Uliánov},
+  Publisher                = {Ediciones Estudio},
+  Edition                  = {6},
+  Library                  = {\textcolor{blue}{Escrito antes del 15 de mayo de 1908, publicado por primera vez en 1925 en \emph{Léninsky Sbórnik}.}}
+}
+
+@Book{libroiliad,
+  Title                    = {Die Ilias},
+  Author                   = {Homer},
+  Date                     = {2004},
+  Keywords                 = {libro},
+  Location                 = {D{\"u}sseldorf},
+  Publisher                = {Artemis \& Winkler},
+  Edition                  = {3},
+  Introduction             = {Latacz, Joachim},
+  Translator               = {Schadewaldt, Wolfgang},
+  Langid                   = {german}
+}
+
+@Book{Lobacevskij1994,
+  Title                    = {Nuovi principi della geometria. Con una teoria completa delle parallele},
+  Author                   = {Lobačevskij, Nikolaj Ivanovič},
+  Date                     = {1994},
+  Editor                   = {Lucio Lombarto Radice},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Torino},
+  Translator               = {Evandro Agazzi and Bollati Boringhieri},
+  Annote                   = {\textcolor{purple}{Ejemplo de una referencia que contiene: autor, editor y traductor, y solo se tiene el registro de la fecha original del texto.}},
+  Langid                   = {italian},
+  Origyear                 = {1835}
+}
+
+@Book{Lorenz2015,
+  Title                    = {No hay mañana sin ayer. Batallas por la memoria histórica en el Cono Sur},
+  Author                   = {Lorenz, Federico and Winn, Peter and Marchesi, Aldo and Stern, Steve},
+  Date                     = {2015},
+  Keywords                 = {listar},
+  Location                 = {Buenos Aires},
+  Publisher                = {Biblos},
+  Url                      = {https://www.editorialbiblos.com.ar/libro/no-hay-manana-sin-ayer_74008},
+  Langid                   = {spanish}
+}
+
+@Book{MartinezDeSousa2007,
+  Title                    = {Manual de estilo de la lengua española},
+  Author                   = {Martínez de Sousa, José},
+  Date                     = {2007},
+  Hyphenation              = {spanish},
+  Keywords                 = {usados},
+  Location                 = {Madrid},
+  Publisher                = {Trea}
+}
+
+@Book{Marx1999,
+  Title                    = {Libro 1. El proceso de producción del capital},
+  Author                   = {Marx, Karl},
+  Date                     = {1999},
+  Keywords                 = {un-volumen},
+  Location                 = {México, DF},
+  Publisher                = {Fondo de Cultura Económica},
+  Volume                   = {1},
+  Maintitle                = {El Capital},
+  Langid                   = {spanish}
+}
+
+@Book{Marx2001,
+  Title                    = {sección primera: Mercancía y dinero; sección segunda: La transformación de dinero en capital; sección tercera: Producción del plusvalor absoluto},
+  Author                   = {Marx, Karl},
+  Date                     = {2001},
+  Keywords                 = {varios-volumenes},
+  Location                 = {Buenos Aires},
+  Publisher                = {Siglo XXI},
+  Volume                   = {1},
+  Mainsubtitle             = {Libro 1. El proceso de producción del capital},
+  Maintitle                = {El Capital},
+  Part                     = {1},
+  Langid                   = {spanish}
+}
+
+@Book{Marx2001a,
+  Title                    = {sección cuarta: La producción del plusvalor relativo; sección quinta: La producción del plusvalor absoluto y del relativo; sección sexta: El salario},
+  Author                   = {Marx, Karl},
+  Date                     = {2001},
+  Keywords                 = {tomo-volumen,varios-volumenes},
+  Location                 = {Buenos Aires},
+  Publisher                = {Siglo XXI},
+  Volume                   = {2},
+  Mainsubtitle             = {Libro 1. El proceso de producción del capital},
+  Maintitle                = {El Capital},
+  Part                     = {1},
+  Langid                   = {spanish}
+}
+
+@Book{Marx2001b,
+  Title                    = {sección séptima: El proceso de acumulación del capital},
+  Author                   = {Marx, Karl},
+  Date                     = {2001},
+  Keywords                 = {tomo-volumen,varios-volumenes},
+  Location                 = {Buenos Aires},
+  Publisher                = {Siglo XXI},
+  Volume                   = {3},
+  Mainsubtitle             = {Libro 1. El proceso de producción del capital},
+  Maintitle                = {El Capital},
+  Part                     = {1},
+  Langid                   = {spanish}
+}
+
+@Book{Marx2002,
+  Title                    = {Misère de la philosophie},
+  Author                   = {Karl Marx},
+  Date                     = {2002},
+  Editor                   = {Jean Kesler},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {París},
+  Publisher                = {Payot \& Rivages},
+  Foreword                 = {Jean Kesler},
+  Langid                   = {french}
+}
+
+@Book{Marx2004,
+  Title                    = {Miseria de la filosofía},
+  Author                   = {Karl Marx},
+  Date                     = {2004},
+  Editor                   = {Jean Kesler},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Madrid},
+  Publisher                = {EDAF},
+  Foreword                 = {Jean Kesler},
+  Translator               = {Tomás Onaindia},
+  Annote                   = {\textcolor{purple}{Ejemplo de libro que tiene relación con otra referencia utilizada dentro del mismo volumen.}},
+  Langid                   = {spanish},
+  Related                  = {Marx2002}
+}
+
+@Book{MenjivarOchoa2006,
+  Title                    = {Tiempos de locura. El Salvador 1979-1981},
+  Author                   = {Menjívar Ochoa, Rafael},
+  Date                     = {2006},
+  Hyphenation              = {spanish},
+  Keywords                 = {ver},
+  Location                 = {El Salvador},
+  Publisher                = {FLACSO}
+}
+
+@InBook{nietzsche:1988,
+  Title                    = {Unzeitgem{\"a}sse Betrachtungen. Zweites St{\"u}ck},
+  Author                   = {Nietzsche, Friedrich},
+  Booktitle                = {Die Geburt der Trag{\"o}die. Unzeitgem{\"a}{\ss}e Betrachtungen I-IV. Nachgelassene Schriften 1870-1973},
+  Date                     = {1988},
+  Bookauthor               = {Nietzsche, Friedrich},
+  Editor                   = {Colli, Giorgio and Montinari, Mazzino},
+  Location                 = {Berlín},
+  Mainsubtitle             = {Kritische Studienausgabe},
+  Maintitle                = {S{\"a}mtliche Werke},
+  Publisher                = {Deutscher Taschenbuch Verlag and Walter de Gruyter},
+  Subtitle                 = {Vom Nut\-zen und Nachtheil der Historie f{\"u}r das Leben},
+  Volume                   = {1},
+  Annote                   = {\textcolor{purple}{En este ejemplo se ve un ensayo de la edición crítica de las obras de Nietzsche. Esta entrada al recurso principal refiere explícitamente a un ensayo que se encuentra en el primer volumen.}},
+  Keywords                 = {algunos-ejemplos},
+  Hyphenation                   = {german}
+}
+
+@Conference{Onaha2000,
+  Title                    = {Japoneses en Argentina y nikkei argentinos en Japón: el rol de la identidad nacional y étnica en un proceso de integración de los nikkei argentinos en Okinawa},
+  Author                   = {Onaha, Cecilia},
+  Date                     = {2000},
+  Eventtitle               = {X Congreso Internacional ALADAA},
+  Keywords                 = {listar},
+  Url                      = {bibliotecavirtual.clacso.org.ar/ar/libros/aladaa/onaha.rtf},
+  Hyphenation                   = {spanish}
+}
+
+@Online{onlinedemo,
+  Title                    = {The Comprehensive TeX Archive Network},
+  Author                   = {CTAN},
+  Keywords                 = {online},
+  Nameaddon                = {Comprehensive TeX Archive Network},
+  Url                      = {https://ctan.org/},
+  Urldate                  = {2018-12-09},
+  Langid                   = {english}
+}
+
+@Online{Pantieri2011,
+  Title                    = {L'arte di scrivere con LaTeX. Un'introduzione a LaTeX},
+  Author                   = {Pantieri, Lorenzo and Tommaso Gordini},
+  Date                     = {2011},
+  Hyphenation              = {english},
+  Keywords                 = {usados},
+  Url                      = {http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf}
+}
+
+@Patent{patentealmendro,
+  Title                    = {Elektromagnetisches Signalhorn},
+  Author                   = {Almendro, Jos{\'e} and Mart{\'i}n, Jacinto and S{\'a}nchez, Alberto and Nozal, Fernando},
+  Date                     = {1998},
+  Number                   = {EU-29702195},
+  Location                 = {countryfr and countryuk and countryde},
+  Keywords                 = {patente},
+  Langid                   = {german}
+}
+
+@Patent{patentesorace,
+  Title                    = {High-Speed Digital-to-{RF} Converter},
+  Author                   = {Sorace, Ronald and Reinhardt, Victor and Vaughn, Steven},
+  Date                     = {1997-09-16},
+  Number                   = {5668842},
+  Holder                   = {{Hughes Aircraft Company}},
+  Type                     = {patentus},
+  Keywords                 = {patente},
+  Langid                   = {english}
+}
+
+@Periodical{periodicojcg,
+  Title                    = {Computers and Graphics},
+  ISSN                     = {0097-8493},
+  Issuetitle               = {Semantic 3D Media and Content},
+  Number                   = {4},
+  Url                      = {https://www.journals.elsevier.com/computers-and-graphics},
+  Volume                   = {vol.~35},
+  Year                     = {2011},
+  Keywords                 = {periodico},
+  Langid                   = {english}
+}
+
+@Incollection{pozzinigra,
+  Title                    = {Vietnam, el camino al desastre},
+  Author                   = {Leo Huberman and Paul Sweezy},
+  Booktitle                = {Huellas imperiales},
+  Date                     = {2013},
+  Editor                   = {Pablo Pozzi and Fabio Nigra},
+  Editortype               = {compiler},
+  Hyphenation              = {spanish},
+  Keywords                 = {incollection},
+  Location                 = {Buenos Aires},
+  Publisher                = {Ediciones Imago Mundi and CICCUS},
+  Edition                  = {2}
+}
+
+@Online{RAE2010,
+  Title                    = {Consulta On Line},
+  Author                   = {RAE},
+  Date                     = {2014},
+  Hyphenation              = {spanish},
+  Keywords                 = {usados},
+  Nameaddon                = {Real Academia Española},
+  Url                      = {https://dle.rae.es/?id=GltBvT9},
+  Urldate                  = {2019-01-30}
+}
+
+@Incollection{Reynaud1971,
+  Title                    = {Estructura y organización de la empresa},
+  Author                   = {Reynaud, Jean Daniel},
+  Booktitle                = {Tratado de sociología del trabajo},
+  Date                     = {1971},
+  Editor                   = {Georges Friedmann and Pierre Naville},
+  Hyphenation              = {spanish},
+  Keywords                 = {incollection},
+  Location                 = {México, DF},
+  Publisher                = {Fondo de Cultura Económica},
+  Volumes                  = {2}
+}
+
+@InBook{ruso1997x,
+  Title                    = {История Русской Церкви 1917-1997},
+  Author                   = {Владислав Цыпин},
+  Date                     = {1997},
+  Chapter                  = {8},
+  Publisher                = {Издательство Спасо-Преображенского Валаамского монастыря},
+  Url                      = {http://old.pravoslavie.by/podpod.asp?id=135&Session=10},
+  Urldate                  = {2010-10-25},
+  Address                  = {Москва},
+  Keywords                 = {algunos-ejemplos},
+  Langid                   = {russian}
+}
+
+@InProceedings{salam1968,
+  Title                    = {Weak and Electromagnetic Interactions},
+  Author                   = {Salam, Abdus},
+  Booktitle                = {Elementary particle theory},
+  Date                     = {1968},
+  Editor                   = {Svartholm, Nils},
+  Booksubtitle             = {Relativistic groups and analyticity},
+  Booktitleaddon           = {Proceedings of the {Eighth Nobel Symposium}},
+  Eventdate                = {1968-05-19/1968-05-25},
+  Location                 = {Stockholm},
+  Publisher                = {Almquist \& Wiksell},
+  Venue                    = {Aspen{\"a}sgarden, Lerum},
+  Annote                   = {\textcolor{purple}{Ejemplo de una ponencia publicada como parte de un libro.}},
+  Keywords                 = {algunos-ejemplos}
+}
+
+@Book{Sampson2012,
+  Title                    = {Great American City: Chicago and the Enduring Neighborhood Effect},
+  Author                   = {Sampson, Robert},
+  Date                     = {2012},
+  Keywords                 = {listar},
+  Location                 = {Chicago},
+  Publisher                = {Chicago University Press},
+  Langid                   = {english}
+}
+
+@BookInBook{stage,
+  Title                    = {Shakespeare and the Elizabethan Stage},
+  Author                   = {Expert, Edward},
+  Booktitle                = {Tragedies},
+  Date                     = {1997},
+  Bookauthor               = {Shakespeare, William},
+  Editor                   = {Bookmaker, Bernard},
+  Location                 = {Londres},
+  Maintitle                = {Collected Works},
+  Pages                    = {7-49},
+  Publisher                = {Wordsworth Editions},
+  Series                   = {serie Studies in English Literature and Drama},
+  Volume                   = {1},
+  Annote                   = {\textcolor{purple}{Ejemplo de un capítulo de un libro dentro de otro libro.}},
+  Keywords                 = {varios-tomos},
+  Langid                   = {english}
+}
+
+@Book{Trotski1938,
+  Title                    = {La revolución traicionada},
+  Author                   = {Trotski},
+  Date                     = {1938},
+  Keywords                 = {algunos-ejemplos},
+  Location                 = {Buenos Aires},
+  Nameaddon                = {Lev Davídovich Bronstein},
+  Publisher                = {Editorial Claridad},
+  Annote                   = {\textcolor{purple}{Referencia que utiliza apodo para el autor.}},
+  Langid                   = {spanish}
+}
+
+@Online{Valbusa2009,
+  Title                    = {biblatex-philosophy. Styles for using BibLaTeX for work in philosophy},
+  Author                   = {Ivan Valbusa},
+  Date                     = {2009/2018},
+  Hyphenation              = {english},
+  Keywords                 = {usados},
+  Url                      = {https://ctan.org/pkg/biblatex-philosophy}
+}
+
+@Book{Varjao2008,
+  Title                    = {Micropoderes, macroviolências: mídia impressa-aparato policial},
+  Author                   = {Varjão, Suzana},
+  Date                     = {2008},
+  Keywords                 = {listar},
+  Location                 = {Bahia},
+  Publisher                = {Editora da Universidade Federal da Bahia},
+  Url                      = {http://static.scielo.org/scielobooks/22zbb/pdf/varjao-9788523209193.pdf},
+  Urldate                  = {2016-08-15},
+  Annote                   = {\textcolor{purple}{Esta es una prueba de nota}},
+  Langid                   = {portuguese}
+}
+
+@Book{VVAA2002,
+  Title                    = {El gran cine: catálogo de las películas de ficción rusas 1908-1919},
+  Author                   = {VVAA},
+  Date                     = {2002},
+  Keywords                 = {nota-apunte},
+  Location                 = {Moscú},
+  Publisher                = {Novoe Literaturnoe Obozrenie},
+  Annote                   = {\textcolor{blue}{Obra de gran tamaño e información sobre películas rusas. Está organizado por años con una ficha completa para cada película más alguna imagen e información accesoria. Su parte final consta de una serie de biografías de personajes del cine prerrevolucionario}},
+  Langid                   = {russian}
+}
+
+@Online{Wassenhoven2011,
+  Title                    = {biblatex-dw},
+  Author                   = {Waßenhoven, Dominik},
+  Date                     = {2011},
+  Hyphenation              = {english},
+  Keywords                 = {usados},
+  Url                      = {http://mirrors.ctan.org/macros/latex/contrib/biblatex-contrib/biblatex-dw/doc/biblatex-dw.pdf},
+  Titleaddon               = {versión 1.4}
+}
+
+@Book{Zizek1992,
+  Title                    = {El sublime objeto de la ideología},
+  Author                   = {Slavoj Žižek},
+  Date                     = {1992},
+  Hyphenation              = {spanish},
+  Keywords                 = {libro},
+  Location                 = {México, DF},
+  Publisher                = {Siglo XXI}
+}
+
+@incollection{westfahl:space,
+  author       = {Westfahl, Gary},
+  title        = {The True Frontier},
+  subtitle     = {Confronting and Avoiding the Realities of Space in American Science Fiction Films},
+  pages        = {55-65},
+  crossref     = {westfahl:frontier},
+  Hyphenation       = {english},
+  Keywords                 = {algunos-ejemplos},
+  Annote   = {\textcolor{purple}{Otro ejemplo de capítulo de un libro que también está referenciado dentro del texto.}},
+}
+
+@collection{westfahl:frontier,
+  editor       = {Westfahl, Gary},
+  title        = {Space and Beyond},
+  date         = {2000},
+  publisher    = {Greenwood},
+  location     = {Westport},
+  Hyphenation       = {english},
+  booktitle    = {Space and Beyond},
+  Keywords                 = {algunos-ejemplos},
+  booksubtitle = {The Frontier Theme in Science Fiction},
+  Annote   = {\textcolor{purple}{Libro completo del cual se hace referencia en otro capítulo.}},
+}
+
+@article{moore1965,
+  author       = {Moore, Gordon},
+  Keywords                 = {algunos-ejemplos},
+  title        = {Cramming more components onto integrated circuits},
+  journaltitle = {Electronics},
+  year         = 1965,
+  volume       = 38,
+  number       = 8,
+  pages        = {114-117},
+  Hyphenation       = {english},
+}
+
+@article{moore:related,
+  author       = {Moore, Gordon},
+  Keywords                 = {algunos-ejemplos},
+  title        = {Cramming more components onto integrated circuits},
+  journaltitle = {Proceedings of the IEEE},
+  year         = {1998},
+  volume       = {86},
+  number       = {1},
+  pages        = {82-85},
+  Hyphenation       = {english},
+  related      = {moore1965},
+  relatedtype  = {reprintfrom},
+  Annote   = {\textcolor{purple}{Articulo de revista con indicación (referencia cruzada) a publicación anterior. Obsérvese que en los artículos solo se coloca el nombre de la publicación, a diferencia de los libros en donde van todos los datos disponibles (véase Marx 2002, 2004)}},
+}
+
+@book{aristotle:rhetoric,
+  author       = {Aristóteles},
+  Keywords     = {algunos-ejemplos},
+  title        = {The Rhetoric of Aristotle with a commentary by the late Edward Meredith Cope},
+  date         = {1877},
+  editor       = {Cope, Edward Meredith},
+  commentator  = {Cope, Edward Meredith},
+  volumes      = {3},
+  location     = {Cambridge},
+  publisher    = {Cambridge University Press},
+  langid       = {english},
+  Annote       = {\textcolor{purple}{Ejemplo de edición comentada. Nótese la concatenación de datos del editor y los comentarios que incluyen a los tres volúmenes}},
+}
+
+@book{cicero1995,
+  author       = {Cicero, Marcus Tullius},
+  Keywords     = {algunos-ejemplos},
+  title        = {De natura deorum. {\"U}ber das Wesen der G{\"o}tter},
+  date         = {1995},
+  editor       = {Blank-Sangmeister, Ursula},
+  translator   = {Blank-Sangmeister, Ursula},
+  afterword    = {Thraede, Klaus},
+  language     = {langlatin and langgerman},
+  publisher    = {Reclam},
+  location     = {Stuttgart},
+  langid       = {german},
+  Annote       = {\textcolor{purple}{Edición bilingue del libro \emph{De natura deorum}, con traducción al alemán}},
+}
+
+@book{coleridge1983,
+  author       = {Coleridge, Samuel Taylor},
+  Keywords     = {algunos-ejemplos},
+  title        = {Biographia literaria, or {Biographical} sketches of my literary life and opinions},
+  date         = {1983},
+  editor       = {Coburn, Kathleen and Engell, James and Bate, W. Jackson},
+  maintitle    = {The collected works of {Samuel Taylor Coleridge}},
+  volume       = {7},
+  part         = {2},
+  series       = {Bollingen Series},
+  number       = {75},
+  publisher    = {Routledge {and} Kegan Paul},
+  location     = {London},
+  langid       = {english},
+  langidopts   = {variant=british},
+  indextitle   = {Biographia literaria},
+  shorttitle   = {Biographia literaria},
+  Annote       = {One (partial) volume of a multivolume book. This is a
+                  book entry with a volume and a part
+                  field which explicitly refers to the second (physical) part of
+                  the seventh (logical) volume. Also note the series
+                  and number fields},
+}

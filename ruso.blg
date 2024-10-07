@@ -1,0 +1,18 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'ruso.blg'
+[48] biber:330> INFO - === lun ene  3, 2022, 09:00:17
+[57] Biber.pm:415> INFO - Reading 'ruso.bcf'
+[99] Biber.pm:952> INFO - Found 3 citekeys in bib section 0
+[108] Biber.pm:4334> INFO - Processing section 0
+[114] Biber.pm:4523> INFO - Looking for bibtex format file 'ruso.bib' for section 0
+[114] bibtex.pm:1682> INFO - LaTeX decoding ...
+[116] bibtex.pm:1494> INFO - Found BibTeX data source 'ruso.bib'
+[136] Biber.pm:4523> INFO - Looking for bibtex format file 'biblatex-examples.bib' for section 0
+[189] bibtex.pm:1682> INFO - LaTeX decoding ...
+[303] bibtex.pm:1494> INFO - Found BibTeX data source '/usr/share/texmf-dist/bibtex/bib/biblatex/biblatex/biblatex-examples.bib'
+[322] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[322] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[322] Biber.pm:4162> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[322] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[327] bbl.pm:651> INFO - Writing 'ruso.bbl' with encoding 'UTF-8'
+[328] bbl.pm:754> INFO - Output to ruso.bbl

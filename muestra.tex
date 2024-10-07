@@ -1,0 +1,296 @@
+\documentclass[11pt]{article}
+\usepackage[textwidth=5.5in,textheight=8.5in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[scale=0.94]{plex-serif}
+\usepackage[]{plex-sans}
+\usepackage[scale=0.91]{plex-mono}
+\usepackage{lettrine}
+\renewcommand{\ttfamily}{\fontencoding{OT1}\fontfamily{cmtt}\selectfont}
+\PassOptionsToPackage{urlcolor=black,colorlinks}{hyperref}
+\RequirePackage{hyperref}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{multicol}
+\newcommand{\typeone}{Type~\liningnums{1}}
+\begin{document}
+\title{\LaTeX\ Support for Linux Libertine and Biolinum Fonts}
+\author{Bob Tennent\\
+\small\url{rdt@cs.queensu.ca}}
+\date{\today}
+\maketitle 
+\thispagestyle{empty}
+\begin{small}
+\tableofcontents
+\end{small}
+\sloppy
+\clearpage
+\section{Introduction}
+
+This package provides support for use of the Linux Libertine and Linux
+Biolinum families of fonts in \LaTeX.
+Most features 
+are usable
+with \LaTeX\ and \verb|dvips|, pdf\LaTeX, xe\LaTeX\ and lua\LaTeX;
+the features in Section~\ref{OpenType} are only usable with xe\LaTeX\ or lua\LaTeX. 
+This package compatibly replaces several earlier packages (\texttt{libertine-type1},
+\texttt{biolinum-type1}, \texttt{libertine}) and should provide partial compatibility with
+the obsolete \texttt{libertineotf} and \texttt{libertine-legacy} packages.
+
+\section{Installation}
+
+To install this package on a TDS-compliant \TeX\ system, download the
+file 
+\begin{list}{}{}\item \verb\tex-archive/install/fonts/libertine.tds.zip\ 
+\end{list}
+and unzip at the root of an appropriate
+\verb\texmf\ tree, likely a personal or local tree. If necessary, update
+the file-name database (e.g., \verb\texhash texmf\). Update the font-map files by
+enabling the Map file \verb\libertine.map\.
+
+
+\section{Basic Usage}
+
+For most purposes, simply add
+
+\begin{list}{}{}\item
+\verb|\usepackage{libertine}|
+\end{list}
+to the preamble of your document. This will activate Libertine as
+the main (seriffed) text font, Biolinum as the sans font,
+and (from January~2013) LibertineMono as the monospaced font. 
+It is
+recommended that the font encoding be set to \verb\T1\ or \verb\LY1\ but the default
+\verb\OT1\  encoding is also supported. Available shapes in all series (except \texttt{tt}, which
+only has \texttt{it}) include:
+\begin{list}{}{}\item
+\begin{tabular}{ll}
+\texttt{it} &               italic\\
+\texttt{sc} &            small caps\\
+\texttt{scit} &            italic small caps
+\end{tabular}
+\end{list}
+Slanted variants are not supported; the designed italic variants will be
+automatically substituted. The exceptions are the monospaced font and the bold series of Biolinum,
+for which designed italics are not currently available. Artificially
+slanted variants have been generated and treated as if they were italic.
+
+To activate Libertine (without Biolinum), use the \texttt{libertine} (or \texttt{rm})
+option. Similarly, to activate Biolinum (without Libertine) use the
+\texttt{biolinum} (or \texttt{sf} or \texttt{ss}) option. To use Biolinum as the main text font (as
+well as the sans font), use the option \texttt{sfdefault}.
+Use the \verb|mono=false| (or \verb|tt=false|) option to suppress
+activating LibertineMono. 
+To activate single font families,
+use one or more of
+\begin{list}{}{}
+\item \verb|\usepackage{libertineRoman}|
+\item \verb|\usepackage{libertineMono}|
+\item \verb|\usepackage{biolinum}|
+\end{list}
+
+
+\section{Advanced Usage}
+
+Lua\LaTeX\ and xe\LaTeX\ users who might prefer to use Type~1 fonts or who
+wish to avoid \texttt{fontspec} may use the \texttt{type1} (or \texttt{nofontspec}) option.
+The \verb\libertine-type1.sty\,
+\verb\biolinum-type1.sty\ and \verb\libertineMono-type1.sty\ packages provide
+compatibility
+with older packages. For legacy documents that use only basic
+facilities of \verb\libertineotf\, a wrapper package \verb\libertineotf.sty\ is provided.
+The following features of the original \verb|libertine| or \verb|libertineotf|
+packages are
+\emph{not} supported:
+\begin{itemize}
+
+ \item font-features such as \texttt{Ligatures} or \texttt{Scale} as option parameters
+
+ \item the Outline or Shadow fonts 
+
+ \item commands \verb|\Lnnum|, \verb|\Lpnum|, \verb|\Lcnum|, etc.
+
+ \item environments \texttt{Ltable} and \texttt{libertineenumerate} 
+\end{itemize}
+If your documents use any of the features listed above,
+you may have to continue to use the \verb\libertineotf\ package (which is still available from
+CTAN) or access the OpenType fonts directly using \texttt{fontspec}.
+
+
+The following options are available in all styles (except monospaced):
+\begin{list}{}{}\item
+\begin{tabular}{ll}
+\texttt{oldstyle} (\texttt{osf}) &  old-style figures\\
+\texttt{lining} (\texttt{nf}, \texttt{lf}) &  lining figures\\
+\texttt{proportional} (\texttt{p})&  varying-width figures\\
+\texttt{tabular} (\texttt{t}) &     fixed-width figures\\
+\end{tabular}
+\end{list}
+The defaults (from January~2013) are \texttt{lining} and \texttt{tabular}. These apply to both Libertine
+and Biolinum;
+to change the default figure style of just the Biolinum (sans)
+fonts, use options
+\begin{list}{}{}\item
+\texttt{sflining} (\texttt{sflf}) or \texttt{sfoldstyle} (\texttt{sfosf}, \texttt{osfss})
+\item
+\texttt{sftabular} (\texttt{sft}) or \texttt{sfproportional} (\texttt{sfp}) 
+\end{list}
+
+The \texttt{semibold} (\texttt{sb}) option will enable use of the
+semi-bold series of Libertine; this has no effect on the Biolinum fonts,
+for which there is no semi-bold variant. The options \verb|scale=|<\emph{number}> (or
+\verb|scaled=|<\emph{number}>) will scale the Biolinum fonts but have no effect on the
+Libertine fonts. Similarly, the options 
+\verb|llscale=|<\emph{number}> (or  \verb|llscaled=|<\emph{number}>)
+and
+\verb|ttscale=|<\emph{number}> (or  \verb|ttscaled=|<\emph{number}>)
+will scale the LinuxLibertine and LibertineMono fonts, respectively.  
+Any of the ``Boolean'' options, such as \texttt{osf}, may 
+also be used
+in the form \verb|osf=true| or \verb|osf=false|.
+
+The option \verb\defaultfeatures=...\ allows the user to add default OpenType
+features; for example, \verb\defaultfeatures={Variant=01}\ will force use of the Stylistic~Set~1
+variant glyphs.
+
+Commands \verb|\oldstylenums{|\ldots\verb|}| and \verb|\oldstylenumsf{|\ldots\verb|}| are defined to
+allow for local use of old-style figures in Libertine and Biolinum,
+respectively, if lining figures is the default, and similarly
+\verb|\liningnums{|\ldots\verb|}| and \verb|\liningnumsf{|\ldots\verb|}|.
+
+Similarly, commands \verb|\tabularnums{|\ldots\verb|}| and \verb|\tabularnumsf{|\ldots\verb|}| are defined
+to allow local use of monospaced figures in Libertine or Biolinum,
+respectively, if proportional figures is the default, and similarly
+\verb|\proportionalnums{|\ldots\verb|}| and \verb|\proportionalnumsf{|\ldots\verb|}|.
+
+Superior numbers (for footnote markers) are available using \verb|\sufigures|
+or \verb|\textsu{|\ldots\verb|}|.
+
+
+Command \verb|\useosf| switches the default figure style for Libertine and Biolinum to old-style figures; this is
+primarily for use \emph{after} calling a math package (such as \verb|newtxmath| with the
+\verb|libertine| option) with lining figures as the default.
+
+The following macros select the font family indicated:
+\begin{center}
+\begin{tabular}{ll}
+\verb|\libertine| & Libertine \\
+\verb|\libertineSB|& Libertine with semibold \\
+\verb|\libertineOsF| & Libertine with oldstyle figures \\
+\verb|\libertineLF| & Libertine with lining figures \\
+\verb|\libertineDisplay| & Libertine Display \\
+\verb|\libmono| & Libertine Monospaced \\
+\verb|\libertineInitial| & Libertine Initials \\
+\verb|\biolinum| & Biolinum \\
+\verb|\biolinumOsF|& Biolinum with oldstyle figures \\
+\verb|\biolinumLF| & Biolinum with lining figures \\
+\end{tabular}
+\end{center}
+Macro \verb|\libertineInitialGlyph{|\ldots\verb|}| produces a glyph in the Libertine Initial font;
+Appendix~\ref{InitialGlyphs} has a table of some of the glyphs.
+
+\section{OpenType Fonts}
+\label{OpenType}
+
+The features in this section are only available to xe\LaTeX\ and lua\LaTeX\ users.
+
+Macros \verb|\libertineGlyph{|\ldots\verb|}| and \verb|\biolinumGlyph{|\ldots\verb|}| produce the
+glyph named in the argument in the Libertine or Biolinum font,
+respectively; for example, in regular-weight and upright-shape,
+\verb|\libertineGlyph{seven.cap}| and \verb|\libertineGlyph{uniE10F}| both produce a
+lining~7 that matches the height of capital letters, as in
+\begin{list}{}{}\item
+% K\libertineGlyph{seven.cap}L~\libertineGlyph{three.cap}N\libertineGlyph{six.cap}
+\end{list} 
+Similarly, \verb|\biolinumKeyGlyph{|\ldots\verb|}| produces the named glyph
+% in the Biolinum Keyboard font; for example: \verb|\biolinumKeyGlyph{seven}| produces \biolinumKeyGlyph{seven}.
+A large number of macros of the form \verb|\LKey|\ldots or \verb|\LMouse|\ldots
+are provided to simplify production of glyphs in the Biolinum Keyboard font;
+see Appendix~\ref{LKey}. Appendix~\ref{KeyboardGlyphs} has a table of the entire
+Linux Biolinum Keyboard font, with corresponding glyph name and codepoint.
+
+
+The directory
+\verb|/fonts/opentype/public/libertine| 
+has the fonts used for these features, as follows:
+\begin{list}{}{}\item\small
+\begin{tabular}{lll}
+\multicolumn{1}{c}{\bf File name} & \multicolumn{1}{c}{\bf Internal name} & \multicolumn{1}{c}{\bf Description} \\
+\hline
+\verb|LinBiolinum_RBO.otf|  & \verb|LinBiolinumOBO|  & sans serif bold italic (oblique) \\
+\verb|LinBiolinum_RB.otf|  & \verb|LinBiolinumOB| & sans serif bold \\
+\verb|LinBiolinum_RI.otf|  & \verb|LinBiolinumOI| & sans serif italic \\
+\verb|LinBiolinum_R.otf|  & \verb|LinBiolinumO| & sans serif regular \\
+\verb|LinLibertine_RBI.otf|  & \verb|LinLibertineOBI| & bold italic \\
+\verb|LinLibertine_RB.otf|  & \verb|LinLibertineOB| & bold \\
+\verb|LinLibertine_RI.otf|  & \verb|LinLibertineOI| & italic \\
+\verb|LinLibertine_R.otf|  & \verb|LinLibertineO| & regular \\
+\verb|LinLibertine_RZI.otf|  & \verb|LinLibertineOZI| & semibold italic \\
+\verb|LinLibertine_RZ.otf|  & \verb|LinLibertineOZ| & semibold \\
+\verb|LinLibertine_MBO.otf| & \verb|LinLibertineMOBO| & mono bold italic (oblique) \\
+\verb|LinLibertine_MB.otf| & \verb|LinLibertineMOB| & mono bold \\
+\verb|LinLibertine_MO.otf| & \verb|LinLibertineMOO| & mono italic (oblique) \\
+\verb|LinLibertine_M.otf| & \verb|LinLibertineMO| & mono \\
+\verb|LinBiolinum_K.otf|  & \verb|LinBiolinumOKb| & keyboard \\
+\verb|LinLibertine_I.otf|  & \verb|LinLibertineIO| &   decorative capitals \\
+\verb|LinLibertine_DR.otf| & \verb|LinLibertineDisplayO| &   a display (titling) font  \\
+\end{tabular}
+\end{list}
+
+\section{Concluding Remarks}
+
+
+For compatible mathematics, it is recommended to use
+\begin{verbatim}
+  \usepackage[libertine]{newtxmath}
+\end{verbatim}
+with pdf\LaTeX\ and
+\begin{verbatim}
+  \usepackage{unicode-math}
+  \setmathfont[Scale=MatchUppercase]{libertinusmath-regular.otf}
+\end{verbatim}
+with xe\LaTeX\ or lua\LaTeX.
+
+The original OpenType fonts were created by Philipp H. Poll 
+(\url{gillian@linuxlibertine.org}) and are licensed under the terms of the GNU General
+Public License (Version~2, with font exception) and under the terms of
+the Open Font License. For details look into the \verb|doc| directory of the
+distribution or at
+\begin{list}{}{}\item
+\url{http://www.linuxlibertine.org/}
+\end{list}
+The Glyph and KeyCap support was adapted from the original \verb\libertine\
+package by Michael Niedermair.
+
+Three of the Libertine fonts were modified by Michael Sharpe (\url{msharpe@ucsd.edu}) using 
+\texttt{fontforge} to correct minor problems, including adding
+three missing ligatures (\emph{\bfseries fl, ffl, ffi}) to the bold-italic font.
+
+% The \typeone\ fonts were created using \verb|cfftot1| or \verb|fontforge|. 
+% The internal font-family names of the \typeone\ 
+fonts have been changed to \verb|Linux Libertine T| and \verb|Linux Biolinum T| to avoid
+interfering with xe\LaTeX\ users who access system fonts. 
+
+The support
+files were created using \verb|autoinst|. The support files are licensed under
+the terms of the LaTeX Project Public License.  
+See Appendix~\ref{impl} for more detailed discussion of the implementation.
+
+Thanks to Herbert Voss, Patrick Gundlach, Silke Hofstra, Marc Penninga, Michael Sharpe,
+Denis Bitouz\'{e}, and Khaled Hosny for their assistance.
+The maintainer of this
+package is Bob Tennent (\url{rdt@cs.queensu.ca})
+
+
+
+\clearpage
+\section{Linux Biolinum Keyboard Glyphs}\small\tt
+\label{KeyboardGlyphs}
+\renewcommand\DeclareTextGlyphY[3]{\makebox[2.5cm]{\LARGE\strut\fbox{\biolinumKeyGlyph{#2}}} #2\\}%
+\catcode`\_=12%
+\begin{multicols}{2}
+\par\noindent
+\input{LinBiolinum_K}
+\end{multicols}
+
+
+\end{document}

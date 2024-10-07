@@ -1,0 +1,155 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{aksin}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e410078ecf298d6b83792df6633b2b08}{%
+           family={Aks{ı}n},
+           familyi={A\bibinitperiod},
+           given={Özge},
+           giveni={Ö\bibinitperiod}}}%
+        {{hash=e881ffc293766c81018c24d97971f9c3}{%
+           family={Türkmen},
+           familyi={T\bibinitperiod},
+           given={Hayati},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f9be8f5362c3f1a8c57254f421602a77}{%
+           family={Artok},
+           familyi={A\bibinitperiod},
+           given={Levent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ec020af214a005621e2bee07a4c233b2}{%
+           family={Çetinkaya},
+           familyi={Ç\bibinitperiod},
+           given={Bekir},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3aaac037c43bc853e732168da667cd40}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Chaoying},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7936aa08c0b52f024d7a3402b03bf380}{%
+           family={Büyükgüngör},
+           familyi={B\bibinitperiod},
+           given={Orhan},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f37529ce7811acc4b7ecb0d352a007ec}{%
+           family={Özkal},
+           familyi={Ö\bibinitperiod},
+           given={Erhan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{860705eb8ffac6e40507746c7ede79ca}
+      \strng{fullhash}{f565e365b13f55b7eb75966908d10961}
+      \strng{bibnamehash}{860705eb8ffac6e40507746c7ede79ca}
+      \strng{authorbibnamehash}{860705eb8ffac6e40507746c7ede79ca}
+      \strng{authornamehash}{860705eb8ffac6e40507746c7ede79ca}
+      \strng{authorfullhash}{f565e365b13f55b7eb75966908d10961}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{indextitle}{Effect of immobilization on catalytic characteristics}
+      \field{journaltitle}{J.~Organomet. Chem.}
+      \field{number}{13}
+      \field{title}{Effect of immobilization on catalytic characteristics of saturated {Pd-N}-heterocyclic carbenes in {Mizoroki-Heck} reactions}
+      \field{volume}{691}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{3027\bibrangedash 3036}
+      \range{pages}{10}
+    \endentry
+    \entry{AlKarapan}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4d5faa0b28fd6b09c3a41923348cf884}{%
+           family={Καραπαναγοπούλου},
+           familyi={Κ\bibinitperiod},
+           given={Αλέξανδρος\bibnamedelima Κ.},
+           giveni={Α\bibinitperiod\bibinitdelim Κ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Αθήνα}%
+      }
+      \list{publisher}{1}{%
+        {auto-édition}%
+      }
+      \strng{namehash}{4d5faa0b28fd6b09c3a41923348cf884}
+      \strng{fullhash}{4d5faa0b28fd6b09c3a41923348cf884}
+      \strng{bibnamehash}{4d5faa0b28fd6b09c3a41923348cf884}
+      \strng{authorbibnamehash}{4d5faa0b28fd6b09c3a41923348cf884}
+      \strng{authornamehash}{4d5faa0b28fd6b09c3a41923348cf884}
+      \strng{authorfullhash}{4d5faa0b28fd6b09c3a41923348cf884}
+      \field{sortinit}{Κ}
+      \field{sortinithash}{01475d084b7d84371cad8e8c39ddd324}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endyear}{1998}
+      \field{langid}{greek}
+      \field{title}{Η Μεγάλη Σύνοδος της Ορθοδόξου Ανατολικής Εκκλησίας}
+      \field{volumes}{6}
+      \field{year}{1990}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
+    \entry{CypinIstorijaRPC}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=d92540b936a1e29233f8e9f2be92e453}{%
+           family={Цыпин},
+           familyi={Ц\bibinitperiod},
+           given={Владислав},
+           giveni={В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Москва}%
+      }
+      \list{publisher}{1}{%
+        {Издательство Спасо-Преображенского Валаамского монастыря}%
+      }
+      \strng{namehash}{d92540b936a1e29233f8e9f2be92e453}
+      \strng{fullhash}{d92540b936a1e29233f8e9f2be92e453}
+      \strng{bibnamehash}{d92540b936a1e29233f8e9f2be92e453}
+      \strng{authorbibnamehash}{d92540b936a1e29233f8e9f2be92e453}
+      \strng{authornamehash}{d92540b936a1e29233f8e9f2be92e453}
+      \strng{authorfullhash}{d92540b936a1e29233f8e9f2be92e453}
+      \field{sortinit}{Ц}
+      \field{sortinithash}{3f01c092520703ab3ccf737b3f40d905}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{VIII}
+      \field{langid}{russian}
+      \field{title}{История Русской Церкви 1917--1997}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2010}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://old.pravoslavie.by/podpod.asp?id=135&Session=10
+      \endverb
+      \verb{url}
+      \verb http://old.pravoslavie.by/podpod.asp?id=135&Session=10
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

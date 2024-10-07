@@ -1,0 +1,77 @@
+\documentclass[a4paper]{article}
+\usepackage{gentium}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{filecontents}
+\begin{filecontents*}{\jobname.bib}
+@Book{AlKarapan,
+author = {Καραπαναγοπούλου, Αλέξανδρος Κ.},
+title = {Η Μεγάλη Σύνοδος της Ορθοδόξου Ανατολικής Εκκλησίας},
+publisher = {auto-édition},
+date = {1990/1998},
+volumes = {6},
+address = {Αθήνα},
+langid={greek},
+}
+@Inbook{CypinIstorijaRPC,
+author = {Владислав Цыпин},
+title = {История Русской Церкви 1917--1997},
+chapter = {VIII},
+publisher = {Издательство Спасо-Преображенского Валаамского монастыря},
+address = {Москва},
+date = {1997},
+urldate = {2010-10-25},
+url = {http://old.pravoslavie.by/podpod.asp?id=135&Session=10},
+langid={russian},
+}
+\end{filecontents*}
+
+\usepackage[russian,greek,english]{babel}
+
+% \usepackage[style=philosophy-modern,
+% backend=biber,
+% sorting=nyvt,
+% sortcites=true,
+% backref=true,
+% useprefix=true,
+% citereset=chapter,
+% indexing=true,
+% language=auto,  
+% autolang=hyphen,
+% relatedformat=brackets,
+% publocformat=loccolonpub,
+% volnumformat=strings,
+% latinemph=true,
+% inbeforejournal=true,
+% shorthandintro=true,
+% texencoding=utf8,
+% bibencoding=utf8,
+% uniquelist=minyear]{biblatex}%autolang=other,autolang=hyphen,
+
+\usepackage[%style=alphabetic,
+isbn=true,
+backref=true,
+url=true,
+defernumbers=false,
+sorting=nyt, 
+backend=biber,
+language=auto,
+texencoding=utf8,
+bibencoding=utf8,
+autolang=other]{biblatex}
+
+
+\DeclareFieldFormat{labelalpha}{%
+  \iffieldundef{langid}
+    {#1}
+    {\foreignlanguage{\thefield{langid}}{#1}}%
+}
+
+\addbibresource{\jobname.bib}
+\addbibresource{biblatex-examples.bib}
+
+\begin{document}
+\cite{AlKarapan,CypinIstorijaRPC,aksin}
+\printbibliography
+
+\end{document}

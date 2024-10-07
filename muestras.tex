@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[paperwidth=220mm,%showframe,
+paperheight=120mm,
+textwidth=210mm,
+inner=5mm,
+includehead,
+includefoot,
+headsep=16pt,
+top=15mm,
+bottom=15mm,
+marginparwidth=0mm,
+marginparsep=0mm,
+footskip=0mm]{geometry}
+\usepackage{fontspec}
+% \setmainfont[
+% % Microtype,
+% Kerning=Uppercase,
+% Scale=MatchLowercase,
+% Numbers=OldStyle,
+% SizeFeatures={%
+%         {Size={-8.4},Font=* Capt},
+%         {Size={8.41-13.0},Font=*},
+%         {Size={13.01-19.9},Font=* Subh},
+%         {Size={19.91-},Font=* Disp}}
+% ]{Minion Pro}
+
+\setmainfont{Minion Pro}
+\newfontfamily\fonta[SizeFeatures={{Size={12-80},Font=* Disp}}]{Minion Pro}
+\newfontfamily\fontb[SizeFeatures={{Size={12-80},Font=* Subh}}]{Minion Pro}
+\newfontfamily\fontc[SizeFeatures={{Size={6-11},Font=Minion Pro},{Size={12-80},Font=*}}]{Minion Pro}
+\newfontfamily\fontd[SizeFeatures={{Size={12-80},Font=* Capt}}]{Minion Pro}
+
+\begin{document}
+Minion Pro \fontc Minion Pro\fontsize{14}{15}Minion Pro
+
+\fontsize{50}{52}
+\fontd Minion Pro Caption
+
+\fontb Minion Pro Subhead
+
+\fonta Minion Pro Display
+
+\normalfont\normalsize normal font
+\end{document}
+
+\end{document}

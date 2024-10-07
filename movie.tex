@@ -1,0 +1,18 @@
+\documentclass{article}
+
+\usepackage{IBMPlex}
+\usepackage{bib-valbusa}
+% \usepackage[style=apa]{biblatex}
+% \DeclareLanguageMapping{american}{american-apa}
+\addbibresource{ESTILO.bib}
+
+\DeclareLabelname[movie]{
+    \field{prod.}
+}
+
+\DeclareFieldFormat[movie]{entrysubtype}{\mkbibbrackets{#1}}
+
+\begin{document}
+\nocite{divingbell2007}
+\printbibliography
+\end{document}

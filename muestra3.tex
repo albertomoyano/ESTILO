@@ -1,0 +1,38 @@
+\documentclass{book}
+\usepackage{lipsum}
+\usepackage{titlesec}
+\usepackage{titletoc}
+
+% chapter formatting in toc
+\titlecontents{chapter}
+[0.0cm]             % left margin
+{}                  % above code
+{%                  % numbered format
+{\llap{\thecontentspage\hspace{.5cm}}\thecontentslabel~}%
+}%
+{}         % unnumbered format
+{}         % filler-page-format, e.g dots
+
+\begin{document}
+\tableofcontents
+
+\chapter{mychapter} 
+\section{mysection}
+\subsection{mysubsection}
+\section{mysection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\chapter{mychapter} 
+\section{mysection}
+\subsection{mysubsection}
+\section{mysection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\subsection{mysubsection}
+\chapter{mychapter} 
+\end{document}
